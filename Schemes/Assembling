@@ -1,0 +1,9 @@
+First of all, you have to adjust the current limit on every A4988 driver. You have to this adequate to your stepper motors parameters. You can find tutorials on how to do this on the Internet.
+
+Now, connect the voltage converter to the power supply (pic1.png). Set the output voltage for 12V. The reason we use this converter is because it also regulate and stabilize the voltage. Then connect it to the small breadboard as shown on pic2.png 
+
+Then you just connect everything as shown on "scheme.png". As you can see, DIR and STEP pins are not connected, but the only reason is because of the clarity of the scheme. You have to connect them to the arduino to pins from 2 to 13. The way you connect them is explained in the /Arduino Files/SolvingMachine/SolvingMachine.ino file.
+
+I recommend you to sign your stepper motors with letters F, R, U, B, D and L, it will be easier for you to arrange them later.
+
+If you did everything correctly, then you are ready to go!

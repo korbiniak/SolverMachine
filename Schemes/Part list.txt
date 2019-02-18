@@ -1,0 +1,22 @@
+NEMA17 KS42STH40 stepper motor - 6 times (It does not really matter which NEMA17 motor will you chose, it is only important that they has same measurements, in this case 42x42x40 +- 1mm)
+
+A4988 pololu stepper driver - 6 times (Just for safety reasons I'd buy 7 or 8 drivers, they like to break. And don't forget about radiators!)
+
+Arduino UNO R3 - 1 time (you can use clone as well, it does not really matter)
+
+Voltage conventer (step down) - 1 time (something like this: https://www.ebay.com/itm/200W-8A-DC-DC-Adjustable-Step-Down-Power-Supply-Module-Voltage-Current-Converter-/232902216563)
+
+Capacitor 100μF - 6 times
+
+Power supply 19V 3,42A out plug 5,5 x 2,1 (for example laptop power adapter) - 1 time. More details about this in file "Assembling" - 1 time
+
+DC Power jack 5,5 x 2,1 with crocodiles (smth like this one https://www.aliexpress.com/item/1PCS-5-5-2-1-mm-DC-Power-Plug-jack-to-Alligator-Clip-2-in-1/32821938130.html) - 1 time
+
+2 long and 1 small breadboards
+
+Very many jumpers
+
+Rubic's cube 56mm x 56mm x 56mm (I used Shengshou aurora)
+
+You will also need 2 normal copper cables
+
